@@ -21,4 +21,4 @@ In this project I will show you how to realiaze an analysis to determine what cu
 
 - Conclusion
 
-# Click on the Customer_Review_Project - Qonto.ipynb file to see the results
+## Click on the Customer_Review_Project - Qonto.ipynb file to see the results
